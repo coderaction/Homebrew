@@ -1,10 +1,10 @@
 [![](https://repository-images.githubusercontent.com/53238813/4038c700-61d2-11e9-805e-2d39adbf13ca)]()
 # HomeBrew Nedir?
-Mac OSX isletim sistemi uzerinde yazilim kurulumunun kolaylastiran bir paket yoneticisidir. Hem ucretsiz hem de acik kaynakli bir yazilim paketidir  Ornek olarak mac'inize mongodb,redis,git kurmak mi istiyorsunuz bunu homebrew ile terminal ekranina belli basli kodlar yazarraktan hizli bir kurulum gerceklestirebilirsiniz. 
+Mac OSX isletim sistemi uzerinde yazilim kurulumunun kolaylastiran bir paket yoneticisidir. Hem ucretsiz, hem de acik kaynakli bir yazilim paketidir. Ornek olarak mac'inize mongodb,redis,git kurmak mi istiyorsunuz? bunu homebrew ile terminal ekranina belli basli kodlar yazaraktan hizli bir kurulum gerceklestirebilirsiniz. 
 
->Homebrew ayrica Apple'in ihtitaca duymadigi ama isze lazim olan paketleride kendi icerisinde indirir. Ornek vericek olursam mac'im, jmeter'da yuklu load testlei yaparken cokmus ve mac'i bastan yapilandirmam gerekmisti, bu surecte herseyi tek tek kurmam gerekti ve git'i yuklerken hata silsileri cikti onume ve bu surecte hayatimi kurtaran homebrew oldu.
+>Homebrew ayrica Apple'in ihtitaca duymadigi ama size lazim olan paketleride kendi icerisinde indirir. Ornek vericek olursam mac'im de, jmeter kullanarak load test yaparken cokmus ve mac'i bastan yapilandirmam gerekmisti ve herseyi mac'e bastan kurdum. Kurulum islemlerinde sira git'e geldiginde, git yukleme asamasinda bir cok problem cikardi, cikan sorunnlari cozdukce bir baskasi cikti ve burada imdadima homebrew yetisti.
 
-Homebrew haricinde benzer iki paket yoneticisi de bulunmakta fink ve macports adi altinda ben kullanmadim ama zamaniniz varsa denenebilir. 
+Homebrew haricinde benzer iki paket yoneticisi de bulunmakta fink ve macports adi altinda, ben kullanmadim ama zamaniniz varsa denenebilir. 
 
 ## Nasil Kurulur? 
 Terminal ekraniniziz acin ve asagida ki komutu yapistirin.
